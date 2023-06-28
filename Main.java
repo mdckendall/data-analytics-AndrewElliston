@@ -37,6 +37,7 @@ class Main {
         System.out.println("Top 10 Forbes In-Demand Jobs!");
       }
       if(numChecker == 4){
+        System.out.println("Current Students:");
         for (String str : arrayList){
           System.out.println(str);
         }
